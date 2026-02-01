@@ -9,15 +9,23 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@react-hook/intersection-observer": "^3.1.2",
     "framer-motion": "^12.29.0",
+    "lucide-react": "^0.563.0",
     "next": "16.1.4",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "react-icons": "^5.5.0",
+    "react-intersection-observer": "^10.0.2",
+    "react-scroll": "^1.9.3",
+    "styled-components": "^6.3.8"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "16.1.4",
+    "prettier": "^3.8.1",
+    "prettier-plugin-tailwindcss": "^0.7.2",
     "tailwindcss": "^4"
   }
 }
