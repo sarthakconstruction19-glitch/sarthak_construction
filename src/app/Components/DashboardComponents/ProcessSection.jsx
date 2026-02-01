@@ -86,7 +86,7 @@ export default function ProcessSection() {
         <h1 className="text-heading-lg-3 font-ubuntu text-white uppercase"></h1>
         <div className="grid grid-cols-1 text-white shadow-md shadow-black md:p-2 lg:grid-cols-2">
           <Image
-            src={"./licensed-image.jfif"}
+            src={"/licensed-image.jpg"}
             className="mx-auto"
             width={700}
             height={100}
